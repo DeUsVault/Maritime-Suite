@@ -7,7 +7,7 @@
 /**
  * 
  */
-class DEPTH_API Init
+class MARITIMESIMULATION_API Init
 {
 public:
 	Init();

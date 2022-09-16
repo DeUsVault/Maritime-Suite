@@ -2,9 +2,9 @@
 
 using UnrealBuildTool;
 
-public class depth : ModuleRules
+public class MaritimeSimulation : ModuleRules
 {
-	public depth(ReadOnlyTargetRules Target) : base(Target)
+	public MaritimeSimulation(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	

@@ -3,13 +3,13 @@
 using UnrealBuildTool;
 using System.Collections.Generic;
 
-public class depthEditorTarget : TargetRules
+public class MaritimeSimulationEditorTarget : TargetRules
 {
-	public depthEditorTarget(TargetInfo Target) : base(Target)
+	public MaritimeSimulationEditorTarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Editor;
 		DefaultBuildSettings = BuildSettingsVersion.V2;
 
-		ExtraModuleNames.AddRange( new string[] { "depth" } );
+		ExtraModuleNames.AddRange( new string[] { "MaritimeSimulation" } );
 	}
 }
