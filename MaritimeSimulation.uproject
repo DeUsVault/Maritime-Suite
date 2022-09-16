@@ -5,7 +5,7 @@
 	"Description": "",
 	"Modules": [
 		{
-			"Name": "depth",
+			"Name": "MaritimeSimulation",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}
