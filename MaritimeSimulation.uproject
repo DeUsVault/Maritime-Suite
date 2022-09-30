@@ -20,12 +20,22 @@
 		},
 		{
 			"Name": "OceanPlugin",
-			"Type": "Runtime",
-			"LoadingPhase": "PreDefault",
 			"Enabled": true
 		},
 		{
 			"Name": "Water",
+			"Enabled": true
+		},
+		{
+			"Name": "PythonFoundationPackages",
+			"Enabled": true
+		},
+		{
+			"Name": "PythonAutomationTest",
+			"Enabled": true
+		},
+		{
+			"Name": "NiagaraFluids",
 			"Enabled": true
 		}
 	]
