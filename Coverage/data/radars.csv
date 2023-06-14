@@ -1,0 +1,5 @@
+radius,type,cost
+10,sea,12000
+15,land,5000
+20,sea,10000
+5,land,3000
