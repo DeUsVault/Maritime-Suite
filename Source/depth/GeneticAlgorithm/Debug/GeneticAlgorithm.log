@@ -1,0 +1,22 @@
+﻿  GeneticAlgorithm.cpp
+C:\Users\gdialekt\Desktop\GeneticAlgorithmCpp\GeneticAlgorithm.cpp(59,39): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\gdialekt\Desktop\GeneticAlgorithmCpp\GeneticAlgorithm.cpp(64,30): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\gdialekt\Desktop\GeneticAlgorithmCpp\GeneticAlgorithm.cpp(102,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\gdialekt\Desktop\GeneticAlgorithmCpp\GeneticAlgorithm.cpp(125,28): warning C4018: '<': signed/unsigned mismatch
+  Individual.cpp
+C:\Users\gdialekt\Desktop\GeneticAlgorithmCpp\Individual.cpp(24,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\gdialekt\Desktop\GeneticAlgorithmCpp\Individual.cpp(28,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\gdialekt\Desktop\GeneticAlgorithmCpp\Individual.cpp(34,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\gdialekt\Desktop\GeneticAlgorithmCpp\Individual.cpp(45,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\gdialekt\Desktop\GeneticAlgorithmCpp\Individual.cpp(49,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\gdialekt\Desktop\GeneticAlgorithmCpp\Individual.cpp(65,20): warning C4018: '<': signed/unsigned mismatch
+  Population.cpp
+C:\Users\gdialekt\Desktop\GeneticAlgorithmCpp\Population.cpp(51,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\gdialekt\Desktop\GeneticAlgorithmCpp\Population.cpp(73,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\gdialekt\Desktop\GeneticAlgorithmCpp\Population.cpp(78,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\gdialekt\Desktop\GeneticAlgorithmCpp\Population.cpp(93,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\gdialekt\Desktop\GeneticAlgorithmCpp\Population.cpp(111,20): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+C:\Users\gdialekt\Desktop\GeneticAlgorithmCpp\main.cpp(27,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  GeneticAlgorithm.vcxproj -> C:\Users\gdialekt\Desktop\GeneticAlgorithmCpp\Debug\GeneticAlgorithm.exe
